@@ -16,7 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.rajeai.talk2note.android"
+      "bundleIdentifier": "com.rajeai.talk2note.us"
     },
     "android": {
       "adaptiveIcon": {
@@ -30,7 +30,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "fa74b3e1-fb98-4287-b280-3f7c8c23d49b"
+        "projectId": "dc6c8321-7df8-41a1-8f54-d666a8f132e7"
       }
     },
     "owner": "rajeai"
