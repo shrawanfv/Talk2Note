@@ -33,6 +33,9 @@
         "projectId": "dc6c8321-7df8-41a1-8f54-d666a8f132e7"
       }
     },
-    "owner": "rajeai"
+    "owner": "rajeai",
+    "plugins": [
+      "react-native-iap"
+]
   }
 }
