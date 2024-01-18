@@ -26,7 +26,8 @@
     "react-native-elements": "^3.4.3",
     "react-native-iap": "^12.5.1",
     "react-native-url-polyfill": "^2.0.0",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "expo-system-ui": "~2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
